@@ -1,0 +1,57 @@
+[
+    {
+        "_uid": "1",
+        "component": "videoDetail",
+        "data": [
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/2206/172206-h",
+                "title": "The Imitation Game",
+                "desc": "In 1939, during World War II, newly created British intelligence agency MI6 recruits Cambridge mathematics alumnus Alan Turing, to crack Nazi codes, including Enigma; which cryptanalysts had thought unbreakable. Turing's team, including Joan Clarke, analyze Enigma messages while he builds a machine to decipher them. Turing and team finally succeed and become heroes, but in 1952, the quiet genius encounters disgrace when authorities reveal he is gay and send him to prison.",
+                "rating": "12+",
+                "year": 2014,
+                "author": "Shashank"
+            }
+        ]
+    },
+    {
+        "_uid": "2",
+        "component": "horizontalCard",
+        "data": [
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5014/585014-h",
+                "title": "Kid King",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7413/297413-v",
+                "title": "Prison Break",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1527/571527-h",
+                "title": "Misson Mangal",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/8601/28601-h",
+                "title": "The Big Bang Theory",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1973/241973-h",
+                "title": "The Princes Diaries",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/old_images/MOVIE/7526/1000197526/1000197526-h",
+                "title": "Sardar Ji",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/7237/587237-h",
+                "title": "Avengers",
+                "author": "Author"
+            }
+        ]
+    }
+]

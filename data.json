@@ -1,0 +1,84 @@
+[
+    {
+        "_uid": "1",
+        "component": "horizontalCard",
+        "data": [
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2207/172207-v",
+                "title": "Kid King",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/4380/184380-h",
+                "title": "Prison Break",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1527/571527-h",
+                "title": "Misson Mangal",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/8601/28601-h",
+                "title": "The Big Bang Theory",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1973/241973-h",
+                "title": "The Princes Diaries",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/old_images/MOVIE/7526/1000197526/1000197526-h",
+                "title": "Sardar Ji",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/7237/587237-h",
+                "title": "Avengers",
+                "author": "Author"
+            }
+        ]
+    },
+    {
+        "_uid": "2",
+        "component": "horizontalCard",
+        "data": [
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5014/585014-h",
+                "title": "Kid King",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7413/297413-v",
+                "title": "Prison Break",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1527/571527-h",
+                "title": "Misson Mangal",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/8601/28601-h",
+                "title": "The Big Bang Theory",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1973/241973-h",
+                "title": "The Princes Diaries",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/old_images/MOVIE/7526/1000197526/1000197526-h",
+                "title": "Sardar Ji",
+                "author": "Author"
+            },
+            {
+                "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/7237/587237-h",
+                "title": "Avengers",
+                "author": "Author"
+            }
+        ]
+    }
+]
