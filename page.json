@@ -1,7 +1,7 @@
 [
     {
         "_uid": "1",
-        "component": "horizontalCard",
+        "component": "horizontalTray",
         "data": [
             {
                 "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2207/172207-v",
@@ -42,7 +42,7 @@
     },
     {
         "_uid": "2",
-        "component": "horizontalCard",
+        "component": "horizontalTray",
         "data": [
             {
                 "img": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5014/585014-h",
