@@ -83,7 +83,7 @@
     },
     {
         "_uid": "3",
-        "component": "TextContent",
+        "component": "textContent",
         "data": [
             {
                 "title": "Lizard",
